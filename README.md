@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/greenbinary/matnusko?1337Badge=off&UM6P=off" alt="matnusko's 42 stats" />
+    <img src="https://badge.mediaplus.ma/greenbinary/matnusko?1337Badge=off&UM6P=off" alt="matnusko's 42 stats" width="800"/>
   </a>
 </div>
 
@@ -51,16 +51,16 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moimat2345&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&border_color=7C3AED&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moimat2345&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=7C3AED&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moimat2345&show_icons=true&theme=tokyonight&title_color=A78BFA&icon_color=A78BFA"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moimat2345&layout=compact&theme=tokyonight&title_color=A78BFA"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moimat2345&theme=tokyonight&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&border=7C3AED&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=moimat2345&theme=tokyonight&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moimat2345&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C9D1D9&area=true&border_color=7C3AED" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moimat2345&theme=tokyo-night&color=A78BFA&line=7C3AED&point=C9D1D9&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -71,7 +71,7 @@
   <tr>
     <td align="center" width="200">
       <a href="https://github.com/moimat2345/libft">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="libft" width="150"/>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="libft" width="125"/>
         <br><b>📚 Libft</b>
       </a>
       <br>
@@ -81,7 +81,7 @@
     </td>
     <td align="center" width="200">
       <a href="https://github.com/moimat2345/get_next_line">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linem.png" alt="GNL" width="150"/>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linem.png" alt="GNL" width="125"/>
         <br><b>📖 Get Next Line</b>
       </a>
       <br>
@@ -91,7 +91,7 @@
     </td>
     <td align="center" width="200">
       <a href="https://github.com/moimat2345/ft_printf">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfm.png" alt="printf" width="150"/>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfm.png" alt="printf" width="125"/>
         <br><b>🖨️ ft_printf</b>
       </a>
       <br>
@@ -99,76 +99,74 @@
       <br>
       <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
     </td>
+    <td align="center" width="200">
+      <a href="https://github.com/moimat2345/born2beroot">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2berootm.png" alt="Born2beRoot" width="125"/>
+        <br><b>🖥️ Born2beRoot</b>
+      </a>
+      <br>
+      <sub>System administration</sub>
+      <br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+    </td>
   </tr>
 
   <tr>
     <td align="center" width="200">
-      <a href="https://github.com/moimat2345/born2beroot">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2berootm.png" alt="Born2beRoot" width="150"/>
-        <br><b>🖥️ Born2beRoot</b>
-      </a>
-      <br>
-      <sub>System administration intro</sub>
-      <br>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
-    </td>
-    <td align="center" width="200">
       <a href="https://github.com/moimat2345/minitalk">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minitalkm.png" alt="minitalk" width="150"/>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minitalkm.png" alt="minitalk" width="125"/>
         <br><b>💬 Minitalk</b>
       </a>
       <br>
-      <sub>Communication using signals</sub>
+      <sub>Signals communication</sub>
       <br>
       <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/moimat2345/push_swap">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swapm.png" alt="push_swap" width="150"/>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swapm.png" alt="push_swap" width="125"/>
         <br><b>🔄 Push Swap</b>
       </a>
       <br>
       <sub>Sort data on a stack</sub>
       <br>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/Algorithm-A78BFA?style=flat"/>
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="200">
       <a href="https://github.com/moimat2345/philosophers">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosophersm.png" alt="Philosophers" width="150"/>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosophersm.png" alt="Philosophers" width="125"/>
         <br><b>🍝 Philosophers</b>
       </a>
       <br>
       <sub>Threading & mutexes</sub>
       <br>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/Threads-7C3AED?style=flat"/>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/moimat2345/so_long">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longm.png" alt="so_long" width="150"/>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longm.png" alt="so_long" width="125"/>
         <br><b>🎮 So Long</b>
       </a>
       <br>
       <sub>2D game with MiniLibX</sub>
       <br>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/Graphics-FF6B6B?style=flat"/>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="200">
       <a href="https://github.com/moimat2345/fdf">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/fdfm.png" alt="FdF" width="150"/>
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/fdfm.png" alt="FdF" width="125"/>
         <br><b>🗻 FdF</b>
       </a>
       <br>
       <sub>Wireframe 3D representation</sub>
       <br>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/3D-A78BFA?style=flat"/>
+    </td>
+    <td align="center" width="200" colspan="3">
+      <sub><i>🚀 More projects coming soon...</i></sub>
     </td>
   </tr>
 </table>
