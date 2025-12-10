@@ -48,19 +48,42 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Coding Journey
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moimat2345&show_icons=true&theme=tokyonight&title_color=A78BFA&icon_color=A78BFA"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moimat2345&layout=compact&theme=tokyonight&title_color=A78BFA"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=moimat2345&theme=tokyonight&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
-</div>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/42_Level-4-A78BFA?style=for-the-badge&logo=42&logoColor=white"/>
+<br><br>
+<b>🎓 Student at 42 Bangkok</b>
+<br>
+<sub>Progressing through the curriculum</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Projects-9+-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<br><br>
+<b>🚀 Completed Projects</b>
+<br>
+<sub>From Libft to Philosophers</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Focus-AI_&_LLM-6D28D9?style=for-the-badge&logo=openai&logoColor=white"/>
+<br><br>
+<b>🧠 Current Learning</b>
+<br>
+<sub>Training & Building with AI</sub>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moimat2345&theme=tokyo-night&color=A78BFA&line=7C3AED&point=C9D1D9&area=true" alt="Contribution Graph" />
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moimat2345&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+</p>
+
 </div>
 
 ---
