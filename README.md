@@ -10,48 +10,58 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td>
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/greenbinary/matnusko?1337Badge=off&UM6P=off" alt="matnusko's 42 stats" />
+  </a>
+</div>
 
-**🎓 School:** 42 Bangkok
-**📊 Level:** 4
-**🌍 Location:** Thailand 🇹🇭
-**🇫🇷 Origin:** France
-**💼 Login:** matnusko
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**🚀 Passions**
+- 🧮 Algorithms
+- 🖥️ System Programming
+- 🤖 Automation
+- 🧠 AI/LLM
 
 </td>
-<td>
+<td align="center" width="50%">
 
-**🚀 Passions:**
-- Algorithms
-- System Programming
-- Automation
-- AI/LLM
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-**🎯 Current Focus:** Training big LLMs & building AI-powered applications
-**💡 Mindset:** Dedicated to what I do and always learning as much as possible
+**🌍 About**
+- 🇫🇷 From France
+- 🇹🇭 Living in Thailand
+- 🎓 42 Bangkok Student
+- 💼 Login: **matnusko**
 
 </td>
 </tr>
 </table>
 
+<p align="center">
+  <strong>🎯 Current Focus:</strong> Training big LLMs & building AI-powered applications<br>
+  <strong>💡 Mindset:</strong> Dedicated to what I do and always learning as much as possible
+</p>
+
 ---
 
-<!-- GitHub Stats -->
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moimat2345&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&border_color=7C3AED"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moimat2345&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=7C3AED"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moimat2345&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&border_color=7C3AED&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moimat2345&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=7C3AED&hide_border=false"/>
 </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moimat2345&theme=tokyonight&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&border=7C3AED" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moimat2345&theme=tokyonight&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&border=7C3AED&hide_border=false" alt="GitHub Streak" />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moimat2345&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C9D1D9&area=true&hide_border=false&border_color=7C3AED" alt="Contribution Graph" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moimat2345&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C9D1D9&area=true&border_color=7C3AED" alt="Contribution Graph" />
+</div>
 
 ---
 
