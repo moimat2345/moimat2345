@@ -8,20 +8,38 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-```javascript
-const mateo = {
-    login: "matnusko",
-    school: "42 Bangkok",
-    level: 4,
-    location: "Thailand 🇹🇭",
-    origin: "France 🇫🇷",
-    passions: ["Algorithms", "System Programming", "Automation", "AI/LLM"],
-    currentFocus: "Training big LLMs & building AI-powered applications",
-    mindset: "Dedicated to what I do and always learning as much as possible"
-};
-```
+<table>
+<tr>
+<td>
+
+**🎓 School:** 42 Bangkok
+**📊 Level:** 4
+**🌍 Location:** Thailand 🇹🇭
+**🇫🇷 Origin:** France
+**💼 Login:** matnusko
+
+</td>
+<td>
+
+**🚀 Passions:**
+- Algorithms
+- System Programming
+- Automation
+- AI/LLM
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**🎯 Current Focus:** Training big LLMs & building AI-powered applications
+**💡 Mindset:** Dedicated to what I do and always learning as much as possible
+
+</td>
+</tr>
+</table>
 
 ---
 
