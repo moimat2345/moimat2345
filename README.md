@@ -55,7 +55,7 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/42_Level-4-A78BFA?style=for-the-badge&logo=42&logoColor=white"/>
+<img src="https://img.shields.io/badge/42_Level-3-A78BFA?style=for-the-badge&logo=42&logoColor=white"/>
 <br><br>
 <b>🎓 Student at 42 Bangkok</b>
 <br>
@@ -93,22 +93,12 @@
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <a href="https://github.com/moimat2345/libft">
+      <a href="https://github.com/moimat2345/Libft">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="libft" width="125"/>
         <br><b>📚 Libft</b>
       </a>
       <br>
       <sub>Your first C library</sub>
-      <br>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/moimat2345/get_next_line">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linem.png" alt="GNL" width="125"/>
-        <br><b>📖 Get Next Line</b>
-      </a>
-      <br>
-      <sub>Reading a line from a fd</sub>
       <br>
       <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
     </td>
@@ -119,6 +109,16 @@
       </a>
       <br>
       <sub>Recode printf function</sub>
+      <br>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/moimat2345/Get_next_line">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linem.png" alt="GNL" width="125"/>
+        <br><b>📖 Get Next Line</b>
+      </a>
+      <br>
+      <sub>Reading a line from a fd</sub>
       <br>
       <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
     </td>
@@ -136,17 +136,27 @@
 
   <tr>
     <td align="center" width="200">
-      <a href="https://github.com/moimat2345/minitalk">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minitalkm.png" alt="minitalk" width="125"/>
-        <br><b>💬 Minitalk</b>
+      <a href="https://github.com/moimat2345/pipex">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/pipexm.png" alt="pipex" width="125"/>
+        <br><b>🔗 Pipex</b>
       </a>
       <br>
-      <sub>Signals communication</sub>
+      <sub>Pipe & process management</sub>
       <br>
       <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
     </td>
     <td align="center" width="200">
-      <a href="https://github.com/moimat2345/push_swap">
+      <a href="https://github.com/moimat2345/fractol">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/fract-olm.png" alt="fractol" width="125"/>
+        <br><b>🌀 Fract-ol</b>
+      </a>
+      <br>
+      <sub>Fractal exploration</sub>
+      <br>
+      <img src="https://img.shields.io/badge/Graphics-FF6B6B?style=flat"/>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/moimat2345/Push_swap">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swapm.png" alt="push_swap" width="125"/>
         <br><b>🔄 Push Swap</b>
       </a>
@@ -156,7 +166,7 @@
       <img src="https://img.shields.io/badge/Algorithm-A78BFA?style=flat"/>
     </td>
     <td align="center" width="200">
-      <a href="https://github.com/moimat2345/philosophers">
+      <a href="https://github.com/moimat2345/Philosophers">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosophersm.png" alt="Philosophers" width="125"/>
         <br><b>🍝 Philosophers</b>
       </a>
@@ -164,32 +174,6 @@
       <sub>Threading & mutexes</sub>
       <br>
       <img src="https://img.shields.io/badge/Threads-7C3AED?style=flat"/>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/moimat2345/so_long">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longm.png" alt="so_long" width="125"/>
-        <br><b>🎮 So Long</b>
-      </a>
-      <br>
-      <sub>2D game with MiniLibX</sub>
-      <br>
-      <img src="https://img.shields.io/badge/Graphics-FF6B6B?style=flat"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/moimat2345/fdf">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/fdfm.png" alt="FdF" width="125"/>
-        <br><b>🗻 FdF</b>
-      </a>
-      <br>
-      <sub>Wireframe 3D representation</sub>
-      <br>
-      <img src="https://img.shields.io/badge/3D-A78BFA?style=flat"/>
-    </td>
-    <td align="center" width="200" colspan="3">
-      <sub><i>🚀 More projects coming soon...</i></sub>
     </td>
   </tr>
 </table>
