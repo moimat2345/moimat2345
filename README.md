@@ -175,7 +175,9 @@
       <br>
       <img src="https://img.shields.io/badge/Threads-7C3AED?style=flat"/>
     </td>
-	<td align="center" width="200">
+  </tr>
+  <tr>
+  <td align="center" width="200">
       <a href="https://github.com/moimat2345/Minishell">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelln.png" alt="Minishell" width="125"/>
         <br><b> Minishell </b>
