@@ -176,16 +176,27 @@
       <img src="https://img.shields.io/badge/Threads-7C3AED?style=flat"/>
     </td>
   </tr>
+
   <tr>
-  <td align="center" width="200">
+    <td align="center" width="200">
       <a href="https://github.com/moimat2345/Minishell">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelln.png" alt="Minishell" width="125"/>
-        <br><b> Minishell </b>
+        <br><b>💻 Minishell</b>
       </a>
       <br>
       <sub>Build your own shell</sub>
       <br>
       <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/moimat2345/CPP_Modules">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppe.png" alt="CPP" width="125"/>
+        <br><b>➕ CPP Modules</b>
+      </a>
+      <br>
+      <sub>Introduction to C++</sub>
+      <br>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
     </td>
   </tr>
 </table>
