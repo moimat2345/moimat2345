@@ -203,6 +203,81 @@
 
 ---
 
+## 🌟 Personal Projects Portfolio
+
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <a href="https://github.com/moimat2345/PROJECT_1">
+        <img src="https://img.shields.io/badge/🤖_AI_Chatbot-A78BFA?style=for-the-badge" alt="AI Chatbot"/>
+        <br><b>AI Chatbot</b>
+      </a>
+      <br>
+      <sub>An AI-powered chatbot using LLMs</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/moimat2345/PROJECT_2">
+        <img src="https://img.shields.io/badge/⚙️_Automation_Tool-7C3AED?style=for-the-badge" alt="Automation Tool"/>
+        <br><b>Automation Tool</b>
+      </a>
+      <br>
+      <sub>Scripts to automate daily tasks</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white"/>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/moimat2345/PROJECT_3">
+        <img src="https://img.shields.io/badge/🌐_Web_App-6D28D9?style=for-the-badge" alt="Web App"/>
+        <br><b>Web App</b>
+      </a>
+      <br>
+      <sub>A full-stack web application</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250">
+      <a href="https://github.com/moimat2345/PROJECT_4">
+        <img src="https://img.shields.io/badge/🦀_Rust_CLI-5B21B6?style=for-the-badge" alt="Rust CLI"/>
+        <br><b>Rust CLI Tool</b>
+      </a>
+      <br>
+      <sub>A command-line utility in Rust</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/moimat2345/PROJECT_5">
+        <img src="https://img.shields.io/badge/📱_iOS_App-4B0082?style=for-the-badge" alt="iOS App"/>
+        <br><b>iOS App</b>
+      </a>
+      <br>
+      <sub>A mobile app built with Swift</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
+    </td>
+    <td align="center" width="250">
+      <a href="https://github.com/moimat2345/PROJECT_6">
+        <img src="https://img.shields.io/badge/🧠_LLM_Training-3B0764?style=for-the-badge" alt="LLM Training"/>
+        <br><b>LLM Training</b>
+      </a>
+      <br>
+      <sub>Fine-tuning language models</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 ### Languages
