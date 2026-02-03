@@ -3,6 +3,12 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,24,27&height=200&section=header&text=Matéo%20Nuskovski&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=42%20Bangkok%20Student%20|%20Level%204%20|%20System%20Programmer&descAlignY=55&descSize=20"/>
 
+<!-- Status Badge -->
+<p>
+  <img src="https://img.shields.io/badge/🎓_42_Bangkok_Student-A78BFA?style=for-the-badge&logoColor=white" alt="42 Student"/>
+  <img src="https://img.shields.io/badge/🤝_Available_for_Collaboration-7C3AED?style=for-the-badge&logoColor=white" alt="Open to Collaborate"/>
+</p>
+
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Passionate+about+creation+and+automation;Fast+learner+%7C+Always+evolving;Building+AI-powered+applications" alt="Typing SVG" /></a>
 
@@ -15,6 +21,13 @@
     <img src="https://badge.mediaplus.ma/greenbinary/matnusko?1337Badge=off&UM6P=off" alt="matnusko's 42 stats" width="800"/>
   </a>
 </div>
+
+<br>
+
+<p align="center">
+  <em>System programmer and automation enthusiast with a passion for AI/ML engineering.<br>
+  Focused on building efficient, scalable solutions and continuously learning new technologies.</em>
+</p>
 
 <br>
 
@@ -41,47 +54,112 @@
 </tr>
 </table>
 
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="100%">
+
+**💼 Professional Interests**
+
+Backend Development • System Programming • AI/ML Engineering • Full-stack Development • Automation
+
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <strong>🎯 Current Focus:</strong> Training big LLMs & building AI-powered applications<br>
+  <strong>🎯 Current Focus:</strong> Building AI-powered automation tools & training LLMs<br>
   <strong>💡 Mindset:</strong> Dedicated to what I do and always learning as much as possible
 </p>
 
 ---
 
+## 🎓 Education
+
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white" alt="42"/>
+    </td>
+    <td align="left" width="600">
+      <strong>42 Bangkok - Common Core Program</strong><br>
+      📅 <em>September 2025 - July 2026 (Expected)</em><br>
+      🎯 <strong>Current Level:</strong> 4<br>
+      💻 <strong>Focus:</strong> System Programming, Algorithms, Unix/Linux Systems<br>
+      🌟 <strong>Login:</strong> matnusko
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
-### Languages
+### 🔥 Expert Level
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-### Tools & Technologies
+### 💪 Intermediate Level
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=cmake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
+</p>
+
+### 🌱 Learning & Exploring
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
 </p>
 
-### AI & Machine Learning
+### 🤖 AI & Machine Learning
 <p align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/MediaPipe-00A67E?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/ONNX_Runtime-7B7B7B?style=for-the-badge&logo=onnx&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLM_APIs-A78BFA?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
+
+---
+
+## 🚧 Work in Progress
+
+<div align="center">
+
+<table align="center">
+  <tr>
+    <td align="center" width="800">
+      <img src="https://img.shields.io/badge/🔨_Currently_Building-FF6B6B?style=for-the-badge" alt="Work in Progress"/>
+      <br><br>
+      <h3>🤖 AI-Powered Email Automation Platform</h3>
+      <p align="left">
+        <strong>Description:</strong> Developing an intelligent email automation system for a client, featuring:<br>
+        • 🧠 AI-powered response generation using LLMs<br>
+        • 🎨 Modern web interface for easy management<br>
+        • ⚡ Smart automation workflows<br>
+        • 🔐 Secure email processing<br>
+        <br>
+        <strong>Status:</strong> <img src="https://img.shields.io/badge/In_Development-FFA500?style=flat&logoColor=white" alt="In Dev"/> Expected to be published in a few weeks<br>
+        <strong>Tech Stack:</strong> Python • LLM APIs • Web Development • Automation
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
