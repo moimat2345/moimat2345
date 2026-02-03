@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,24,27&height=200&section=header&text=Matéo%20Nuskovski&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=42%20Bangkok%20Student%20|%20Level%204%20|%20System%20Programmer&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,24,27&height=200&section=header&text=Matéo%20Nuskovski&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Passionate+about+creation+and+automation;Fast+learner+%7C+Always+evolving;Building+AI-powered+applications" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=42+Bangkok+Student+🎓;AI+%26+LLM+Enthusiast+🤖;System+Programming+Lover+💻;Always+Learning+%26+Building+🚀" alt="Typing SVG" /></a>
 
 ---
 
@@ -207,71 +207,38 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="250">
-      <a href="https://github.com/moimat2345/PROJECT_1">
-        <img src="https://img.shields.io/badge/🤖_AI_Chatbot-A78BFA?style=for-the-badge" alt="AI Chatbot"/>
-        <br><b>AI Chatbot</b>
+    <td align="center" width="300">
+      <a href="https://github.com/moimat2345/password_generator_in_rust">
+        <img src="https://img.shields.io/badge/🦀_Password_Generator-A78BFA?style=for-the-badge" alt="Password Generator"/>
+        <br><b>Password Generator in Rust</b>
       </a>
       <br>
-      <sub>An AI-powered chatbot using LLMs</sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
-    </td>
-    <td align="center" width="250">
-      <a href="https://github.com/moimat2345/PROJECT_2">
-        <img src="https://img.shields.io/badge/⚙️_Automation_Tool-7C3AED?style=for-the-badge" alt="Automation Tool"/>
-        <br><b>Automation Tool</b>
-      </a>
-      <br>
-      <sub>Scripts to automate daily tasks</sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white"/>
-    </td>
-    <td align="center" width="250">
-      <a href="https://github.com/moimat2345/PROJECT_3">
-        <img src="https://img.shields.io/badge/🌐_Web_App-6D28D9?style=for-the-badge" alt="Web App"/>
-        <br><b>Web App</b>
-      </a>
-      <br>
-      <sub>A full-stack web application</sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="250">
-      <a href="https://github.com/moimat2345/PROJECT_4">
-        <img src="https://img.shields.io/badge/🦀_Rust_CLI-5B21B6?style=for-the-badge" alt="Rust CLI"/>
-        <br><b>Rust CLI Tool</b>
-      </a>
-      <br>
-      <sub>A command-line utility in Rust</sub>
+      <sub>Secure password generator CLI tool</sub>
       <br><br>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
     </td>
-    <td align="center" width="250">
-      <a href="https://github.com/moimat2345/PROJECT_5">
-        <img src="https://img.shields.io/badge/📱_iOS_App-4B0082?style=for-the-badge" alt="iOS App"/>
-        <br><b>iOS App</b>
+    <td align="center" width="300">
+      <a href="https://github.com/moimat2345/Todo-app-in-swift">
+        <img src="https://img.shields.io/badge/📱_Todo_App-7C3AED?style=for-the-badge" alt="Todo App"/>
+        <br><b>Todo App in Swift</b>
       </a>
       <br>
-      <sub>A mobile app built with Swift</sub>
+      <sub>iOS task management application</sub>
       <br><br>
       <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white"/>
     </td>
-    <td align="center" width="250">
-      <a href="https://github.com/moimat2345/PROJECT_6">
-        <img src="https://img.shields.io/badge/🧠_LLM_Training-3B0764?style=for-the-badge" alt="LLM Training"/>
-        <br><b>LLM Training</b>
+    <td align="center" width="300">
+      <a href="https://github.com/moimat2345/local-webcam-emotion-gesture-detector">
+        <img src="https://img.shields.io/badge/🤖_Emotion_Detector-6D28D9?style=for-the-badge" alt="Emotion Detector"/>
+        <br><b>Webcam Emotion & Gesture Detector</b>
       </a>
       <br>
-      <sub>Fine-tuning language models</sub>
+      <sub>AI-powered emotion and gesture recognition</sub>
       <br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
     </td>
   </tr>
 </table>
