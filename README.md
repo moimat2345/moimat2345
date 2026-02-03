@@ -344,15 +344,6 @@
 
 ---
 
-<!-- Snake Animation -->
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moimat2345/moimat2345/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moimat2345/moimat2345/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/moimat2345/moimat2345/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 <div align="center">
 
 **✨ "The only way to do great work is to love what you do" - Steve Jobs ✨**
