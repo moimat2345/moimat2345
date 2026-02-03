@@ -28,37 +28,28 @@
 
 <br>
 
-<p align="center">
-  <em>System programmer and automation enthusiast with a passion for AI/ML engineering.<br>
-  Focused on building efficient, scalable solutions and continuously learning new technologies.</em>
-</p>
-
 <br>
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td>
 
-```typescript
-const passions = {
-  algorithms: "🧮",
-  systemProgramming: "💻",
-  automation: "⚙️",
-  AI_LLM: "🤖"
-}
-```
+### 🚀 What I Love
+
+- **Algorithms** - Solving complex problems efficiently
+- **System Programming** - Low-level optimization & performance
+- **Automation** - Making life easier through code
+- **AI/LLM** - Building intelligent applications
 
 </td>
-<td align="center" width="50%">
+<td>
 
-```python
-profile = {
-    "from": "🇫🇷 France",
-    "living_in": "🇹🇭 Thailand",
-    "school": "42 Bangkok",
-    "login": "matnusko"
-}
-```
+### 🌍 About Me
+
+- 🇫🇷 **From:** France
+- 🇹🇭 **Based in:** Thailand
+- 🎓 **School:** 42 Bangkok
+- 👤 **Login:** matnusko
 
 </td>
 </tr>
@@ -66,50 +57,45 @@ profile = {
 
 <br>
 
-<div align="center">
+### 💼 Looking for opportunities in
 
-| 💼 **Professional Interests** |
-|:--:|
-| `Backend Development` • `System Programming` • `AI/ML Engineering` • `Full-stack Development` • `Automation` |
-
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Backend_Development-5C6BC0?style=for-the-badge" alt="Backend"/>
+<img src="https://img.shields.io/badge/System_Programming-7E57C2?style=for-the-badge" alt="System"/>
+<img src="https://img.shields.io/badge/AI/ML_Engineering-9575CD?style=for-the-badge" alt="AI/ML"/>
+<img src="https://img.shields.io/badge/Full--stack_Development-7986CB?style=for-the-badge" alt="Fullstack"/>
+<img src="https://img.shields.io/badge/Automation-AB47BC?style=for-the-badge" alt="Automation"/>
+</p>
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎯_Current_Focus-Building_AI--powered_automation_tools_&_training_LLMs-blueviolet?style=flat-square" alt="Current Focus"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/💡_Mindset-Dedicated_to_what_I_do_and_always_learning-blue?style=flat-square" alt="Mindset"/>
-</p>
+> **🎯 Currently:** Building AI-powered automation tools & training LLMs
+> **💡 Approach:** Dedicated to what I do and always learning as much as possible
 
 ---
 
 ## Education
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white" alt="42"/>
+<br><br>
+<img src="https://img.shields.io/badge/Level-4-5C6BC0?style=for-the-badge&logoColor=white" alt="Level 4"/>
+</td>
+<td width="650">
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white" alt="42"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/Level-4-5C6BC0?style=for-the-badge&logoColor=white" alt="Level 4"/>
-    </td>
-    <td align="left" width="600">
-      <h3>42 Bangkok - Common Core Program</h3>
-      <p>
-        📅 <code>September 2025 - July 2026 (Expected)</code><br><br>
-        💻 <strong>Focus:</strong> System Programming, Algorithms, Unix/Linux Systems<br>
-        🎯 <strong>Login:</strong> <code>matnusko</code><br><br>
-        <img src="https://img.shields.io/badge/C-Expert-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-        <img src="https://img.shields.io/badge/C++-Expert-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-        <img src="https://img.shields.io/badge/Unix-Expert-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Unix"/>
-      </p>
-    </td>
-  </tr>
+### 42 Bangkok - Common Core Program
+
+**📅 Timeline:** `September 2025 - July 2026 (Expected)`
+
+**💻 Main Focus:** System Programming, Algorithms, Unix/Linux Systems
+
+**Core Technologies:** C • C++ • Unix/Linux • Shell • Git • Docker
+
+</td>
+</tr>
 </table>
-
-</div>
 
 ---
 
