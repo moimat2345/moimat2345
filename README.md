@@ -48,43 +48,83 @@
 
 ---
 
-## 📊 Coding Journey
+## 🛠️ Tech Stack & Skills
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/42_Level-3-A78BFA?style=for-the-badge&logo=42&logoColor=white"/>
-<br><br>
-<b>🎓 Student at 42 Bangkok</b>
-<br>
-<sub>Progressing through the curriculum</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Projects-9+-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-<br><br>
-<b>🚀 Completed Projects</b>
-<br>
-<sub>From Libft to Philosophers</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Focus-AI_&_LLM-6D28D9?style=for-the-badge&logo=openai&logoColor=white"/>
-<br><br>
-<b>🧠 Current Learning</b>
-<br>
-<sub>Training & Building with AI</sub>
-</td>
-</tr>
-</table>
-
-<br>
-
+### Languages
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moimat2345&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-</div>
+### Tools & Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=cmake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
+</p>
+
+### AI & Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-00A67E?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ONNX_Runtime-7B7B7B?style=for-the-badge&logo=onnx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM_APIs-A78BFA?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+## 🌟 Personal Projects Portfolio
+
+<table align="center">
+  <tr>
+    <td align="center" width="280">
+      <a href="https://github.com/moimat2345/local-webcam-emotion-gesture-detector">
+        <img src="https://img.shields.io/badge/🎭_Emotion_&_Gesture_Detector-A78BFA?style=for-the-badge" alt="Emotion Detector"/>
+        <br><b>Emotion & Gesture Detector</b>
+      </a>
+      <br>
+      <sub>Real-time webcam analysis with MediaPipe & CNN — fully offline</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MediaPipe-00A67E?style=flat&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+    </td>
+    <td align="center" width="280">
+      <a href="https://github.com/moimat2345/Todo-app-in-swift">
+        <img src="https://img.shields.io/badge/📱_Todo_App-7C3AED?style=for-the-badge" alt="Todo App"/>
+        <br><b>Todo App in Swift</b>
+      </a>
+      <br>
+      <sub>Native macOS/iOS app with SwiftUI & CoreData — zero dependencies</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=apple&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CoreData-34C759?style=flat&logo=apple&logoColor=white"/>
+    </td>
+    <td align="center" width="280">
+      <a href="https://github.com/moimat2345/password_generator_in_rust">
+        <img src="https://img.shields.io/badge/🦀_Password_Generator-6D28D9?style=for-the-badge" alt="Password Generator"/>
+        <br><b>Password Generator</b>
+      </a>
+      <br>
+      <sub>Secure CLI password generator in Rust — minimal dependencies</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -203,133 +243,24 @@
 
 ---
 
-## 🌟 Personal Projects Portfolio
-
-<table align="center">
-  <tr>
-    <td align="center" width="280">
-      <a href="https://github.com/moimat2345/local-webcam-emotion-gesture-detector">
-        <img src="https://img.shields.io/badge/🎭_Emotion_&_Gesture_Detector-A78BFA?style=for-the-badge" alt="Emotion Detector"/>
-        <br><b>Emotion & Gesture Detector</b>
-      </a>
-      <br>
-      <sub>Real-time webcam analysis with MediaPipe & CNN — fully offline</sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MediaPipe-00A67E?style=flat&logo=google&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
-    </td>
-    <td align="center" width="280">
-      <a href="https://github.com/moimat2345/Todo-app-in-swift">
-        <img src="https://img.shields.io/badge/📱_Todo_App-7C3AED?style=for-the-badge" alt="Todo App"/>
-        <br><b>Todo App in Swift</b>
-      </a>
-      <br>
-      <sub>Native macOS/iOS app with SwiftUI & CoreData — zero dependencies</sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=apple&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CoreData-34C759?style=flat&logo=apple&logoColor=white"/>
-    </td>
-    <td align="center" width="280">
-      <a href="https://github.com/moimat2345/password_generator_in_rust">
-        <img src="https://img.shields.io/badge/🦀_Password_Generator-6D28D9?style=for-the-badge" alt="Password Generator"/>
-        <br><b>Password Generator</b>
-      </a>
-      <br>
-      <sub>Secure CLI password generator in Rust — minimal dependencies</sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
-
-### Tools & Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=cmake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
-</p>
-
-### AI & Machine Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-A78BFA?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Integration-7C3AED?style=for-the-badge&logo=brain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automation-00D9FF?style=for-the-badge&logo=automation&logoColor=white"/>
-</p>
-
-### Expertise Areas
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡_Algorithms-A78BFA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🖥️_System_Programming-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🤖_Automation-6D28D9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🧠_LLM_Training-5B21B6?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 Coding Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moimat2345&theme=tokyonight" alt="Profile Summary"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moimat2345&theme=tokyonight" alt="Productive Time"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moimat2345&theme=tokyonight" alt="Repos per Language"/>
-</p>
-
----
-
-## 🎯 Current Goals
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥_Training_Large_Language_Models-A78BFA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🚀_Building_AI--Powered_Apps-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📚_Continuous_Learning-6D28D9?style=for-the-badge"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mateo.nuskovski@yahoo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <a href="https://discord.com/users/matnusko">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://wa.me/33767566248">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://t.me/manuskov">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://github.com/moimat2345">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moimat2345&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 </p>
 
 ---
@@ -345,8 +276,6 @@
 ---
 
 <div align="center">
-
-**✨ "The only way to do great work is to love what you do" - Steve Jobs ✨**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,24,27&height=120&section=footer"/>
 
