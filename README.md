@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,24,27&height=200&section=header&text=Matéo%20Nuskovski&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,24,27&height=200&section=header&text=Matéo%20Nuskovski&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=42%20Bangkok%20Student%20|%20Level%204%20|%20System%20Programmer&descAlignY=55&descSize=20"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=42+Bangkok+Student+🎓;AI+%26+LLM+Enthusiast+🤖;System+Programming+Lover+💻;Always+Learning+%26+Building+🚀" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Passionate+about+creation+and+automation;Fast+learner+%7C+Always+evolving;Building+AI-powered+applications" alt="Typing SVG" /></a>
 
 ---
 
@@ -207,38 +207,39 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="300">
-      <a href="https://github.com/moimat2345/password_generator_in_rust">
-        <img src="https://img.shields.io/badge/🦀_Password_Generator-A78BFA?style=for-the-badge" alt="Password Generator"/>
-        <br><b>Password Generator in Rust</b>
+    <td align="center" width="280">
+      <a href="https://github.com/moimat2345/local-webcam-emotion-gesture-detector">
+        <img src="https://img.shields.io/badge/🎭_Emotion_&_Gesture_Detector-A78BFA?style=for-the-badge" alt="Emotion Detector"/>
+        <br><b>Emotion & Gesture Detector</b>
       </a>
       <br>
-      <sub>Secure password generator CLI tool</sub>
+      <sub>Real-time webcam analysis with MediaPipe & CNN — fully offline</sub>
       <br><br>
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MediaPipe-00A67E?style=flat&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
     </td>
-    <td align="center" width="300">
+    <td align="center" width="280">
       <a href="https://github.com/moimat2345/Todo-app-in-swift">
         <img src="https://img.shields.io/badge/📱_Todo_App-7C3AED?style=for-the-badge" alt="Todo App"/>
         <br><b>Todo App in Swift</b>
       </a>
       <br>
-      <sub>iOS task management application</sub>
+      <sub>Native macOS/iOS app with SwiftUI & CoreData — zero dependencies</sub>
       <br><br>
       <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
-      <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=apple&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CoreData-34C759?style=flat&logo=apple&logoColor=white"/>
     </td>
-    <td align="center" width="300">
-      <a href="https://github.com/moimat2345/local-webcam-emotion-gesture-detector">
-        <img src="https://img.shields.io/badge/🤖_Emotion_Detector-6D28D9?style=for-the-badge" alt="Emotion Detector"/>
-        <br><b>Webcam Emotion & Gesture Detector</b>
+    <td align="center" width="280">
+      <a href="https://github.com/moimat2345/password_generator_in_rust">
+        <img src="https://img.shields.io/badge/🦀_Password_Generator-6D28D9?style=for-the-badge" alt="Password Generator"/>
+        <br><b>Password Generator</b>
       </a>
       <br>
-      <sub>AI-powered emotion and gesture recognition</sub>
+      <sub>Secure CLI password generator in Rust — minimal dependencies</sub>
       <br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
     </td>
   </tr>
 </table>
