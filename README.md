@@ -185,7 +185,7 @@
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
     </td>
     <td align="center" width="280">
-      <a href="https://github.com/moimat2345/code_stat">
+      <a href="https://github.com/moimat2345/code_stats">
         <img src="https://img.shields.io/badge/Code_Stats-7986CB?style=for-the-badge&logoColor=white" alt="Code Stats"/>
         <br><br><b>Code Stats</b>
       </a>
