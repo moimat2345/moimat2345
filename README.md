@@ -185,6 +185,16 @@
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
     </td>
     <td align="center" width="280">
+      <a href="https://github.com/moimat2345/code_stat">
+        <img src="https://img.shields.io/badge/Code_Stats-7986CB?style=for-the-badge&logoColor=white" alt="Code Stats"/>
+        <br><br><b>Code Stats</b>
+      </a>
+      <br><br>
+      <sub>Fast CLI tool for codebase language statistics — like GitHub Linguist, but local</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+    </td>
+    <td align="center" width="280">
       <a href="https://github.com/moimat2345/Todo-app-in-swift">
         <img src="https://img.shields.io/badge/Todo_App-7E57C2?style=for-the-badge&logoColor=white" alt="Todo App"/>
         <br><br><b>Todo App in Swift</b>
@@ -196,6 +206,8 @@
       <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=apple&logoColor=white"/>
       <img src="https://img.shields.io/badge/CoreData-34C759?style=for-the-badge&logo=apple&logoColor=white"/>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="280">
       <a href="https://github.com/moimat2345/password_generator_in_rust">
         <img src="https://img.shields.io/badge/Password_Generator-5C6BC0?style=for-the-badge&logoColor=white" alt="Password Generator"/>
