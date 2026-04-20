@@ -140,25 +140,26 @@
 
 ---
 
-## Work in Progress
+## Currently Building
 
 <div align="center">
 
 <table align="center">
   <tr>
     <td align="center" width="800" style="border-radius: 12px;">
-      <img src="https://img.shields.io/badge/Currently_Building-EF5350?style=for-the-badge&logoColor=white" alt="Work in Progress"/>
+      <img src="https://img.shields.io/badge/CURRENTLY_BUILDING-EF5350?style=for-the-badge&logoColor=white" alt="Currently Building"/>
       <br><br>
-      <h3 style="color: #7E57C2;">AI-Powered Email Automation Platform</h3>
+      <h3 style="color: #7E57C2;">Velora — AI-Powered CRM & Email Automation</h3>
       <p align="left" style="line-height: 1.8;">
-        <strong>Description:</strong> Developing an intelligent email automation system for a client, featuring:<br><br>
-        &nbsp;&nbsp;• AI-powered response generation using LLMs<br>
-        &nbsp;&nbsp;• Modern web interface for easy management<br>
-        &nbsp;&nbsp;• Smart automation workflows<br>
-        &nbsp;&nbsp;• Secure email processing<br>
+        Building a SaaS that automates B2B email communication using AI. Connect your inbox, open Telegram, and let AI classify, route and draft replies automatically.<br><br>
+        &nbsp;&nbsp;• AI email classification, routing & reply drafting<br>
+        &nbsp;&nbsp;• Telegram AI secretary — approve drafts in natural language<br>
+        &nbsp;&nbsp;• Web dashboard with CRM (contacts, catalog, analytics)<br>
+        &nbsp;&nbsp;• Self-serve onboarding in 2 clicks<br>
         <br>
-        <strong>Status:</strong> <img src="https://img.shields.io/badge/In_Development-FFA726?style=for-the-badge&logoColor=white" alt="In Dev"/> Expected to be published in a few weeks<br><br>
-        <strong>Tech Stack:</strong> <code>Python</code> • <code>LLM APIs</code> • <code>Web Development</code> • <code>Automation</code>
+        <strong>Status:</strong> <img src="https://img.shields.io/badge/90%25_COMPLETE-4CAF50?style=for-the-badge&logoColor=white" alt="90% Complete"/><br><br>
+        <strong>Live at:</strong> <a href="https://getvelora.info">https://getvelora.info</a><br><br>
+        <strong>Tech Stack:</strong> <code>Python</code> • <code>Next.js</code> • <code>FastAPI</code> • <code>Supabase</code> • <code>Telegram Bot API</code> • <code>Gemini</code> • <code>Claude API</code> • <code>Vercel</code>
       </p>
     </td>
   </tr>
